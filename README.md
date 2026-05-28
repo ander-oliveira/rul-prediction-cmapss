@@ -1,1 +1,3 @@
 # Previsão da Vida Útil Remanescente de Motores Turbofan usando o Dataset C-MAPSS
+
+Este projeto desenvolve um *pipeline* de Machine Learning para a previsão da Vida Útil Remanescente (RUL) de motores *turbofan*, utilizando o dataset C-MAPSS da NASA. O trabalho inclui análise exploratória, definição do alvo de regressão, pré-processamento, comparação de modelos determinísticos e interpretação dos resultados.

@@ -1,0 +1,5 @@
+model,cv_RMSE,best_params
+Tuned KNN,47.820589451930324,"{'knn__n_neighbors': 30, 'knn__p': 1, 'knn__weights': 'uniform'}"
+Tuned Random Forest,47.21967995825285,"{'n_estimators': 200, 'min_samples_leaf': 10, 'max_features': 'sqrt', 'max_depth': 8}"
+Tuned Gradient Boosting,47.21605940818372,"{'subsample': 0.7, 'n_estimators': 150, 'min_samples_leaf': 20, 'max_depth': 3, 'learning_rate': 0.05}"
+Tuned XGBoost,47.50913619995117,"{'subsample': 1.0, 'reg_lambda': 5, 'n_estimators': 300, 'min_child_weight': 1, 'max_depth': 4, 'learning_rate': 0.05, 'colsample_bytree': 1.0}"
